@@ -10,7 +10,7 @@ Tài liệu đi từ nền tảng điện tử → kiến thức hệ thống ô
 
 ```
 automotive-firmware-knowledge/
-├── README.md                          ← Bạn đang ở đây (lộ trình học)
+├── README.md                          ← Bạn đang ở đây (tổng quan)
 │
 ├── 00-electronics-fundamentals/       ← Nền tảng điện tử
 │   ├── 01-circuit-basics.md           Ohm, Kirchhoff, R/L/C, RC filter
@@ -77,6 +77,8 @@ automotive-firmware-knowledge/
 | **5. RTOS, Bootloader, NvM** | Tuần 19–22 | `02-firmware/04–07` | Ứng dụng nhiều task, bootloader đơn giản |
 | **6. Application** | Tuần 23–26 | `04-application` + Capstone | Một "mini-ECU" hoàn chỉnh có CAN + UDS + DTC |
 
+> 👉 Lộ trình chi tiết theo từng tuần, mốc hoàn thành và hướng chuyên sâu: xem **[ROADMAP.md](../ROADMAP.md)** ở thư mục gốc của repo.
+>
 > Gợi ý: Học song song lý thuyết và lab. Mỗi file đều có phần **"Câu hỏi tự kiểm tra"** và/hoặc **"Thực hành"** ở cuối.
 
 ---
