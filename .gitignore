@@ -1,0 +1,13 @@
+# Build outputs
+build/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.gcda
+*.gcno
+*.gcov
+test_modules
+test_cov
+sched_demo
